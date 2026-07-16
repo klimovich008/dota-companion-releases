@@ -1,0 +1,70 @@
+DOTA LOBBY COMPANION SOFTWARE LICENSE AND MATCH DATA TERMS
+
+Copyright (c) 2026 Dota Lobby Companion contributors. All rights reserved.
+
+1. Permission to Use
+
+You may install and use Dota Lobby Companion for personal, non-commercial use.
+You may not sell, sublicense, redistribute, reverse engineer, or use the program
+to operate a competing data service without the operator's written permission.
+
+2. Acceptance and Match Data
+
+By installing, launching, or using the program, you accept these terms and
+authorize the program to transmit eligible completed Immortal Draft match data
+to the Dota Immortal Tracker shared database.
+
+"Match Data" includes match IDs and times; Steam IDs and displayed player names;
+ranks; teams; draft and hero selections; match result and duration; K/D/A, level,
+net worth, GPM/XPM, last hits, denies, damage, healing, item and other scoreboard
+statistics; and build, lane, position, timing, or other analytics derived locally
+from the match or its replay.
+
+To the extent you hold rights that can be licensed, you grant the operator a
+worldwide, non-exclusive, royalty-free license to collect, host, copy, combine,
+analyze, create aggregate or derived statistics from, publish, display,
+distribute, and otherwise use submitted Match Data to operate and improve the
+shared database, website, player and hero analytics, and related research or
+statistics.
+
+3. Ownership and Other Rights
+
+These terms do not claim ownership of the underlying facts of a Dota 2 match.
+Facts and personal data are not made the property of the operator merely because
+they are submitted. Players and other data subjects retain any rights granted by
+applicable data-protection law.
+
+The operator may hold rights in the program and in the original selection,
+arrangement, verification, presentation, and derived analytics of the compiled
+database. Valve and other rights holders retain all rights in Dota 2, Steam,
+game assets, trademarks, and other protected content.
+
+4. Data Not Included
+
+The program does not license or upload your private notes, tags, local settings,
+admin tokens, or other credentials. Raw .dem replay files are not uploaded unless
+a future version separately discloses and enables that feature.
+
+5. Your Responsibility
+
+You may use the program only where doing so, and submitting Match Data available
+to you, is lawful and permitted by the services and agreements that apply to you.
+These terms do not give you rights in another person's personal data or in
+third-party content.
+
+6. Termination
+
+You may stop future collection by stopping use of the program. Match Data already
+submitted may remain in the shared database, backups, and aggregate statistics
+where legally permitted. Data questions or deletion requests may be submitted to
+the project operator through:
+https://github.com/klimovich008/dota-companion-releases
+
+7. Disclaimer
+
+THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM
+EXTENT PERMITTED BY LAW, THE AUTHORS AND OPERATOR ARE NOT LIABLE FOR ANY CLAIM,
+DAMAGE, BAN, LOSS OF DATA, OR OTHER LIABILITY ARISING FROM THE PROGRAM OR ITS USE.
+
+Dota 2, Steam, and Valve are trademarks of Valve Corporation. This project is not
+affiliated with or endorsed by Valve Corporation.

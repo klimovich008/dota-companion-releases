@@ -51,6 +51,8 @@ Notes, settings, and local match history stay in `%LOCALAPPDATA%\DotaLobbyCompan
 
 The companion observes locally available Dota log, UI, postgame, and replay data. It does not automate player input or make gameplay decisions.
 
+By installing or using the companion, you accept the [software license and match data terms](LICENSE). The tracker does not claim ownership of underlying match facts; submitted data is covered by a non-exclusive license for storage, analysis, and publication.
+
 ---
 
 ## Русский
